@@ -1,0 +1,4 @@
+﻿  Practice_1_3.cpp
+C:\Users\User\source\repos\Practice_1_3\Practice_1_3\Practice_1_3.cpp(54,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Practice_1_3\Practice_1_3\Practice_1_3.cpp(75,10): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+  Practice_1_3.vcxproj -> C:\Users\User\source\repos\Practice_1_3\x64\Debug\Practice_1_3.exe
